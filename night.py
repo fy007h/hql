@@ -10,7 +10,7 @@ from emoji import emojize
 app_id = "wx98e8c8cabb4b1d51"
 app_secret = "2b805f6c8c2e3271c16232cade770a4d"
 city_data = "上海"
-user_id = "ozFNU6PNX1sG8WUIwX39XGHX3Ato"
+user_id = "ozFNU6Bp7BF2_nF2cyIBGWGa4DcI"
 template_id = "zHlwhURaIEcWUkhBz3JZeZBooS5FcI8kupbVXPvyXic"
 
 def get_night():
